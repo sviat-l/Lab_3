@@ -1,12 +1,12 @@
 # Lab_3
 Programs from the 3-rd Laboratory task in Programming course.
 All of them has very detailed and comprehensive documentation.
-## Notebook
+# Notebook
 The main program is related in creating and analyzing Notebook script using OOP.
 It is implemented in 2 scripts : 
 1. [main.py](main.py), which mainly consists of classes related navigation, and program interface.
 2. [notebook.py](notebook.py), which contains classes for notebook realization.
-# Usage
+## Usage
 The program has simple terminal interface, which is very intuitive and clear for users.
 All you need to start using the Notebook is to run the main.py script, for example from the terminal.
 Then you fill see the instructions that will help to understand quickl how it works.
